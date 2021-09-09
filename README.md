@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hikipaint](https://github.com/StephaneChimy/HikiPaint)
 
-- 🌱 I’m currently learning **GatsbyJS, GraphQL**
+- 🌱 I’m currently learning **GatsbyJS, GraphQL, Netlify CMS**
 
 - 👨‍💻 All of my projects are available at [https://stephane-chimy.com](https://stephane-chimy.com)
 
