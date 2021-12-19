@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://stephane-chimy.com](https://stephane-chimy.com)
 
-- 📫 How to reach me **stephane.akira@gmail.com**
+- 📫 How to reach me **stephane.chimy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
