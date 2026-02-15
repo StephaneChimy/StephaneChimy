@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stéphane Chimy</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently working on [Hikipaint](https://github.com/StephaneChimy/HikiPaint)
+- 🔭 I’m currently working on a dashboard-ai
 
-- 🌱 I’m currently learning **GatsbyJS, GraphQL, Netlify CMS**
+- 🌱 I’m currently learning **React / Typescript with Next.js**
 
 - 👨‍💻 All of my projects are available at [https://stephane-chimy.com](https://stephane-chimy.com)
 
